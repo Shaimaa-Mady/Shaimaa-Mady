@@ -41,11 +41,11 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/shaimaa-mady/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:shaimaa-mady@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
+ 
 </div>
+
+###
+<p align="center"> - 📫 How to reach me: shaimaa.mady99@gmail.com </p>
 
 ###
 
