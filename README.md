@@ -47,6 +47,9 @@
 ###
 <p align="center"> - 📫 How to reach me: shaimaa.mady99@gmail.com </p>
 
+
+- 📫 How to reach me: shaimaa.mady99@gmail.com
+
 ###
 
 <br clear="both">
